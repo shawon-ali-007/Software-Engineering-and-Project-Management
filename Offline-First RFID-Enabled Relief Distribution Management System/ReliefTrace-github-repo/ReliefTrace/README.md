@@ -1,12 +1,12 @@
 # ReliefTrace
 
-### An Offline-First, RFID-Enabled Relief Distribution Management System
+####            RFID-Enabled Relief Distribution Management System
 
 <p align="center">
   <strong>Individual Software Engineering Project</strong><br>
   Department of Information and Communication Technology (ICT)<br>
   Mawlana Bhashani Science and Technology University (MBSTU)<br>
-  Bangladesh
+  Santosh,Tangail
 </p>
 
 <p align="center">
