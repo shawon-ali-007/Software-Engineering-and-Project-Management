@@ -1,7 +1,7 @@
 
-
+#  ReliefTrace 
 <p align="center">
-  ReliefTrace
+ 
   </br>
   RFID-Enabled Relief Distribution Management System
   </br>
@@ -232,6 +232,3 @@ Mawlana Bhashani Science and Technology University (MBSTU)
 Course: Software Engineering and Project Management  
 Course Code: ICT-3108
 
----
-
-*This repository is an individual academic project developed for educational purposes. Implementation status is reported transparently; planned features should not be interpreted as completed functionality.*
