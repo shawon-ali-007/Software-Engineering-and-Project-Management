@@ -1,10 +1,10 @@
 
 
 <p align="center">
-  # ReliefTrace
-  <br/>
-  # RFID-Enabled Relief Distribution Management System
-  <br/>
+  ReliefTrace
+  </br>
+  RFID-Enabled Relief Distribution Management System
+  </br>
   <strong>Individual Software Engineering Project</strong><br>
   Department of Information and Communication Technology (ICT)<br>
   Mawlana Bhashani Science and Technology University (MBSTU)<br>
