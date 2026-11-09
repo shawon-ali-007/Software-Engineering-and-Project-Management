@@ -54,17 +54,20 @@ The project follows a clean layered structure (**Controller → Service → DAO 
 
 ### Quiz Page
 <p align="center">
-  <img src="docs/screenshots/game.png" alt="Quiz page" width="480">
+  <img width="240" height="326" alt="Question" src="https://github.com/user-attachments/assets/be075dda-47f3-4a87-a50d-73594cc19865" />
+
 </p>
 
 ### Result Page
 <p align="center">
-  <img src="docs/screenshots/result.png" alt="Result page" width="520">
+  <img width="523" height="378" alt="image" src="https://github.com/user-attachments/assets/368daf68-bea8-46bd-be08-f3b9c07f73a9" />
+
 </p>
 
 ### Leaderboard
 <p align="center">
-  <img src="docs/screenshots/leaderboard.png" alt="Leaderboard page" width="480">
+  <img width="442" height="321" alt="image" src="https://github.com/user-attachments/assets/9821f0e9-cb44-477b-9b7f-3cf770254819" />
+
 </p>
 
 ## 🛠 Tech Stack
