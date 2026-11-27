@@ -1,0 +1,15 @@
+1. Without @Retention(RetentionPolicy.RUNTIME), the annotations default to CLASS retention: they are
+stored in the .class file but are not available to the JVM at runtime. Reflection calls such as
+getAnnotation() would return null, so the container would skip every class, nothing would be injected,
+no validation would happen, and every route would return 404.
+
+2. @Component -> Spring's @Component (or @Service/@Repository); @Value -> Spring's @Value;
+@Range -> Bean Validation's @Min/@Max (or Hibernate Validator's @Range); @Route -> @GetMapping /
+@RequestMapping. Real Spring also does dependency injection between beans (@Autowired), classpath
+component scanning, singleton lifecycle management and AOP proxies (e.g. @Transactional), which our
+mini-framework does not.
+
+3. setAccessible(true) is powerful because it lets a framework read and write private fields and call
+private methods, so injection and validation work without changing the user's classes. It is risky
+because it breaks encapsulation: it can bypass invariants, expose sensitive data, tie code to internal
+details that may change, and it can be blocked by the Java module system or security managers.
